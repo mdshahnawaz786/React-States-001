@@ -1,0 +1,19 @@
+.main_container {
+    
+  padding: 20px;
+}
+
+.c {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
+.c h1{
+    color:#9d1b51;
+}
+
+.c p {
+    color:  #912250;
+}
